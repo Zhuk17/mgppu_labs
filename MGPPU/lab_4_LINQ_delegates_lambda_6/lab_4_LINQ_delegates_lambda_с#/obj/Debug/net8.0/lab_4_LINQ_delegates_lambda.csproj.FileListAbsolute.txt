@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/bin/Debug/net8.0/lab_4_LINQ_delegates_lambda
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/bin/Debug/net8.0/lab_4_LINQ_delegates_lambda.deps.json
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/bin/Debug/net8.0/lab_4_LINQ_delegates_lambda.runtimeconfig.json
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/bin/Debug/net8.0/lab_4_LINQ_delegates_lambda.dll
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/bin/Debug/net8.0/lab_4_LINQ_delegates_lambda.pdb
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.AssemblyInfo.cs
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.dll
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/refint/lab_4_LINQ_delegates_lambda.dll
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.pdb
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/lab_4_LINQ_delegates_lambda.genruntimeconfig.cache
+/Users/macbook/Desktop/С#/mgppu/lab_4_LINQ_delegates_lambda_6/lab_4_LINQ_delegates_lambda/obj/Debug/net8.0/ref/lab_4_LINQ_delegates_lambda.dll
